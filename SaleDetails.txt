@@ -1,0 +1,3 @@
+Sales/Sal001/64 Zoo Lane/9999/0/true
+Sales/Sal002/4 Example Street/10000/0/true
+Auction/Auc001/2 Missionary Road/100000/0/true/NO BIDS PLACED
